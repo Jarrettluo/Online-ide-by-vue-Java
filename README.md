@@ -2,6 +2,10 @@
 A online python, C++, sql, etc actuator, which is created by Vue and Java. 
 
 
+
+<!-- https://shields.io/ 该文的标签全部来自于此网站 !-->
+
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -19,14 +23,14 @@ A online python, C++, sql, etc actuator, which is created by Vue and Java.
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][https://img.shields.io/github/issues/Jarrettluo/Online-ide-by-vue-Java]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+[![GitHub issues](/Users/molly/VUE-project/Online-ide-by-vue-Java/README.assets/Online-ide-by-vue-Java)](https://github.com/Jarrettluo/Online-ide-by-vue-Java/issues)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -208,7 +212,7 @@ Project Link: [https://github.com/Jarrettluo/Online-ide-by-vue-Java](https://git
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/Jarrettluo/Online-ide-by-vue-Java/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
